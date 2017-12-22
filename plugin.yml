@@ -1,0 +1,13 @@
+main: JoshShini.Bukkit.MainBukkit
+version: 1.0
+name: MyPlugin
+
+commands:
+ ready:
+  description: ready for battle
+ start:
+  description: start battle
+ lobby:
+  description: to lobby
+ spec:
+  description: spectate battle
